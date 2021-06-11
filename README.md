@@ -15,8 +15,8 @@ ________________________________________________________________________________
 # Getting started
 
 1. if you don't have VLC in your computer, install from [VLC](https://www.videolan.org/)
-2. download these files: [cnsr_ext.lua](https://github.com/ophirhan/cnsr-vlc-viewer-addon/blob/main/extensions/cnsr_ext.lua), [cnsr_intf.lua](https://github.com/ophirhan/cnsr-vlc-viewer-addon/blob/main/intf/cnsr_intf.lua).
-3. access lua folder using these paths:
+2. download these files: [cnsr_ext.lua](https://github.com/ophirhan/cnsr-vlc-viewer-addon/blob/main/extensions/cnsr_ext.lua), [cnsr_intf.lua](https://github.com/ophirhan/cnsr-vlc-viewer-addon/blob/main/intf/cnsr_intf.lua). (--not a download link..)
+3. access lua folder using these paths: (--mention here to create this folder if not exist)
 
 Windows (all users): %ProgramFiles%\VideoLAN\VLC\lua
 
